@@ -1,5 +1,6 @@
 **Treatment with Paclitaxel:**\
 Kinase: **PRKCB**
+
 	Localization before treatment: cytosol, vesicle
 	Localization after treatment: cytosol, nucleoplasm, vesicle
 	Kinase relocalized to: nucleoplasm
